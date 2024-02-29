@@ -1,4 +1,6 @@
 export const SpecialOffer = () => (
-	<div>SpecialOffer</div>
+	<div>
+		
+	</div>
 )
 
